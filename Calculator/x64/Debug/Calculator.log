@@ -1,0 +1,35 @@
+﻿  Button.cpp
+C:\Users\Denis pipis\source\repos\Calculator\Config.h(6,58): warning C4244: 'argument': conversion from 'float' to 'unsigned int', possible loss of data
+  (compiling source file 'Button.cpp')
+  
+C:\Users\Denis pipis\source\repos\Calculator\Config.h(6,35): warning C4244: 'argument': conversion from 'float' to 'unsigned int', possible loss of data
+  (compiling source file 'Button.cpp')
+  
+C:\Users\Denis pipis\source\repos\Calculator\Button.cpp(32,28): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Denis pipis\source\repos\Calculator\Button.cpp(38,39): warning C4244: '+=': conversion from 'double' to 'T', possible loss of data
+C:\Users\Denis pipis\source\repos\Calculator\Button.cpp(38,39): warning C4244:         with
+C:\Users\Denis pipis\source\repos\Calculator\Button.cpp(38,39): warning C4244:         [
+C:\Users\Denis pipis\source\repos\Calculator\Button.cpp(38,39): warning C4244:             T=float
+C:\Users\Denis pipis\source\repos\Calculator\Button.cpp(38,39): warning C4244:         ]
+  Calc.cpp
+C:\Users\Denis pipis\source\repos\Calculator\Config.h(6,58): warning C4244: 'argument': conversion from 'float' to 'unsigned int', possible loss of data
+  (compiling source file 'Calc.cpp')
+  
+C:\Users\Denis pipis\source\repos\Calculator\Config.h(6,35): warning C4244: 'argument': conversion from 'float' to 'unsigned int', possible loss of data
+  (compiling source file 'Calc.cpp')
+  
+C:\Users\Denis pipis\source\repos\Calculator\Calc.cpp(152,34): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+C:\Users\Denis pipis\source\repos\Calculator\Calc.cpp(152,34): warning C4244:         with
+C:\Users\Denis pipis\source\repos\Calculator\Calc.cpp(152,34): warning C4244:         [
+C:\Users\Denis pipis\source\repos\Calculator\Calc.cpp(152,34): warning C4244:             T=float
+C:\Users\Denis pipis\source\repos\Calculator\Calc.cpp(152,34): warning C4244:         ]
+  Calculator.cpp
+C:\Users\Denis pipis\source\repos\Calculator\Config.h(6,58): warning C4244: 'argument': conversion from 'float' to 'unsigned int', possible loss of data
+  (compiling source file 'Calculator.cpp')
+  
+C:\Users\Denis pipis\source\repos\Calculator\Config.h(6,35): warning C4244: 'argument': conversion from 'float' to 'unsigned int', possible loss of data
+  (compiling source file 'Calculator.cpp')
+  
+  Generating Code...
+  LINK : C:\Users\Denis pipis\source\repos\Calculator\x64\Debug\Calculator.exe not found or not built by the last incremental link; performing full link
+  Calculator.vcxproj -> C:\Users\Denis pipis\source\repos\Calculator\x64\Debug\Calculator.exe
